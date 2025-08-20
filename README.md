@@ -1,6 +1,6 @@
 # NukeMart - Premium Nuclear Solutions
 
-A professional e-commerce platform for premium nuclear solutions and strategic defense systems.
+A simple e-commerce platform for premium nuclear solutions and strategic defense systems.
 
 ## 🏗️ Project Structure
 
